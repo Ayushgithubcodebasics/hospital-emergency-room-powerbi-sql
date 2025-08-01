@@ -87,5 +87,5 @@ The Power BI report is a multi-page solution designed for different analytical n
 ---
 
 ## Contact
-**Ayush Butoliya**
+**Ayush Butoliya** 
 Email: ayushbutoliya22@gmail.com
