@@ -64,7 +64,7 @@ The Power BI report is a multi-page solution designed for different analytical n
 - **Patient Details:** A detailed, tabular view for drilling down to individual patient records.
 - **Key Takeaways:** A summary of the most critical insights and recommendations.
 
-![Hospital ER Dashboard](https://placehold.co/800x400/0A0D3F/FFFFFF?text=Hospital+ER+Dashboard+UI)
+![Hospital ER Dashboard](images/hospital-emergency-room-monthly-view.png)
 
 ## How to Run This Project
 
