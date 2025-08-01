@@ -21,8 +21,8 @@ Efficiently managing an emergency room is critical for patient care and hospital
 - **Version Control:** GitHub
 
 ## Project Structure
+<img width="555" height="260" alt="image" src="https://github.com/user-attachments/assets/ae4d8e7b-1e8b-452d-8729-80ba3bdf6bea" />
 
-hospital-er-analysis/├── README.md├── dashboard/│   └── hospital_er_dashboard.pbix└── data/└── hospital_er_data.csv
 ## Data Cleaning & Preparation
 
 - **Data Transformation (Power Query):**
