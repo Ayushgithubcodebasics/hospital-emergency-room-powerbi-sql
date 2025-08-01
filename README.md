@@ -17,7 +17,7 @@ Efficiently managing an emergency room is critical for patient care and hospital
 ## Tools & Technologies
 
 - **Business Intelligence:** Power BI
-- **Languages:** DAX (Data Analysis Expressions), M Language (Power Query)
+- **Languages:** DAX (Data Analysis Expressions), M Language (Power Query), SQL
 - **Version Control:** GitHub
 
 ## Project Structure
